@@ -1,6 +1,4 @@
-<p align="center">
-  <img width="125px" src="https://pbs.twimg.com/profile_images/1552097991716225026/lpH9DLSm_400x400.jpg"/>
-</p>
+>
 
 
 <h1 align="center">
